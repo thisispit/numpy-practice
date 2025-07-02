@@ -23,6 +23,12 @@ print(arr.nbytes)
 # transpose of the array
 print(arr.T)
 
+# reshape thegiven array
+array=np.arange(12)
+reshaped = array.reshape((4,3))
+print("Origianl array:", array)
+print("Reshaped array :",reshaped)
+
 # iterate over all the element of the array using loop
 print(f"Flat itetator: ")
 for item in arr.flat:
