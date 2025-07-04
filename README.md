@@ -43,7 +43,7 @@ This repository is organized by topic, following a structured learning path from
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/your-username/numpy-practice.git](https://github.com/your-username/numpy-practice.git)
+    git clone https://github.com/thisispit/numpy-practice
     cd numpy-practice
     ```
 
