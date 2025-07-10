@@ -6,28 +6,6 @@ This repository contains hands-on examples, practice scripts, and notes as I exp
 
 ---
 
-## 🔍 What's Inside?
-
-This repository is organized by topic, following a structured learning path from beginner to advanced concepts.
-
-### ✅ Beginner Topics
-* `arrays_basics.py` – Creating and inspecting NumPy arrays
-* `indexing_slicing.py` – Accessing and manipulating data
-* `array_math.py` – Vectorized operations and element-wise math
-* `arange_linspace.py` – Creating ranges and evenly spaced values
-
-### 🟡 Intermediate Topics
-* `broadcasting_examples.py` – Working with different shapes
-* `boolean_indexing.py` – Filtering with conditions
-* `random_module.py` – Generating random data
-* `sorting_searching.py` – Using sort, where, argmax, etc.
-
-### 🔴 Advanced Topics (Coming soon or in progress)
-* `matrix_operations.py` – Dot product, transpose, inverse
-* `linear_algebra.py` – Solving equations using NumPy
-* `performance_notes.md` – Optimization and memory usage tips
-
----
 
 ---
 
