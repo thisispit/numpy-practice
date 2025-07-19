@@ -21,7 +21,7 @@ This repository contains hands-on examples, practice scripts, and notes as I exp
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/your-username/numpy-practice.git](https://github.com/your-username/numpy-practice.git)
+    git clone https://github.com/thisispit/numpy-practice
     cd numpy-practice
     ```
 
