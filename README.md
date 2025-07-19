@@ -4,10 +4,6 @@ Welcome to my personal NumPy learning repository!
 
 This repository contains hands-on examples, practice scripts, and notes as I explore and master the fundamentals and advanced features of **NumPy** — the core library for numerical computing in Python.
 
----
-
-
----
 
 ## 🚀 Why This Repo?
 
